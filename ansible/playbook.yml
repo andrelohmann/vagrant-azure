@@ -161,6 +161,9 @@
         # terraform destroy
         alias tfd='terrahelper destroy '
 
+        # terraform output
+        alias tfo='terrahelper output '
+
       marker: "# {mark} terraform aliases"
 
   - name: set terrahelper environment variables
