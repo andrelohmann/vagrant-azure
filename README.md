@@ -71,3 +71,8 @@ to run the apply phase (rollout the stack on your azure subscription)
 tfp
 ```
 to destroy the azure stack (delete all resources on azure)
+
+```
+tfo
+```
+to output the azure stack output variables
